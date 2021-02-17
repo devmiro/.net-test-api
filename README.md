@@ -69,20 +69,25 @@
 
 ### Built With
 
-* [.NET]()
-* [Swagger]()
-* [Doker]()
-
+* .NET Core 5.0
+* Swagger
+* XUnit
+* Docker
+* Azure App Services
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+For testing follow instalation process and access `https://localhost:5001/swagger/index.html` in your browser.
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
+.NET 5.0
+```C#
+https://dotnet.microsoft.com/download
+```
 * dotnet
   ```sh
   dotnet run
@@ -94,9 +99,17 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/devmiro/softplan-test-api.git
    ```
-2. Install Nuget packages
+2. Build and Install Nuget packages
    ```sh
    dotnet build
+   ```
+3. Run Project
+    ```sh
+   dotnet run
+   ```
+4. Run Tests
+  ```sh
+   dotnet test
    ```
 
 
