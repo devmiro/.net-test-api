@@ -18,7 +18,7 @@
   <h3 align="center">SoftPlayer API v1</h3>
 
   <p align="center">
-    project_description
+    Processo seletivo .NET
     <br />
     <a href="https://github.com/devmiro/softplan-test-api"><strong>Explore the docs »</strong></a>
     <br />
