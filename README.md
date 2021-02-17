@@ -99,6 +99,10 @@ https://dotnet.microsoft.com/download
    ```sh
    git clone https://github.com/devmiro/softplan-test-api.git
    ```
+1.1 Checkout to branch localhost
+   ```sh
+   git checkout localhost
+   ```
 2. Build and Install Nuget packages
    ```sh
    dotnet build
