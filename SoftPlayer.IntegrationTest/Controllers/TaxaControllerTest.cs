@@ -19,7 +19,7 @@ namespace SoftPlayer.IntegrationTest
        public async void TaxaForGetTaxaIsCorrect()
         {
             var client = factory.CreateClient();
-            client.BaseAddress = new Uri("https://localhost:5001/");
+            client.BaseAddress = new Uri("https://softplan-test-api.azurewebsites.net/");
                 client.DefaultRequestHeaders.Accept.Clear();               
 
             var response = await client.DoGetAsync<string>("taxaJuros");

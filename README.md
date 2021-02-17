@@ -79,7 +79,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-For testing follow instalation process and access `https://localhost:5001/swagger/index.html` in your browser.
+For testing follow instalation process and access `https://softplan-test-api.azurewebsites.net/swagger/index.html` in your browser.
 
 ### Prerequisites
 
@@ -170,15 +170,4 @@ Project Link: [https://github.com/devmiro/softplan-test-api](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/devmiro/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/devmiro/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/devmiro/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/devmiro/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/devmiro/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/devmiro/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/devmiro/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/devmiro/repo/issues
-[license-shield]: https://img.shields.io/github/license/devmiro/repo.svg?style=for-the-badge
-[license-url]: https://github.com/devmiro/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/devmiro
+[linkedin-url]: https://linkedin.com/in/samircarneiro

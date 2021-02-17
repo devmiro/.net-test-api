@@ -22,7 +22,7 @@ namespace SoftPlayer.Api.Domain.Services
 
             using (HttpClient client = new HttpClient(handler))
             {
-                client.BaseAddress = new Uri("https://localhost:5001/");
+                client.BaseAddress = new Uri("https://softplan-test-api.azurewebsites.net/");
                 client.DefaultRequestHeaders.Accept.Clear();
                 client.DefaultRequestHeaders.Accept.Add(
                     new MediaTypeWithQualityHeaderValue("application/json"));
