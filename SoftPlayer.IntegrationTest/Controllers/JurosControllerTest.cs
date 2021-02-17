@@ -4,6 +4,7 @@ using Xunit;
 using static Xunit.Assert;
 using Microsoft.AspNetCore.Mvc.Testing;
 using System.Net.Http.Headers;
+using SoftPlayer.Api.Extensions;
 
 namespace SoftPlayer.IntegrationTest
 {

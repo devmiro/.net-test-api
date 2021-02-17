@@ -30,6 +30,7 @@ namespace SoftPlayer
 
             services.AddScoped<IJurosService, JurosService>();
             services.AddScoped<ITaxaService, TaxaService>();
+            services.AddScoped<IGitService, GitService>();
 
             services.AddControllers();
 
