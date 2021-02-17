@@ -20,7 +20,7 @@ namespace SoftPlayer.IntegrationTest.Controllers
        public async void JurosForCalculaJurosIsCorrect()
         {
             var client = factory.CreateClient();
-            client.BaseAddress = new Uri("https://softplan-test-api.azurewebsites.net/");
+            client.BaseAddress = new Uri("https://localhost:5001/");
                 client.DefaultRequestHeaders.Accept.Clear();                
                 client.DefaultRequestHeaders.Accept.Add(
                     new MediaTypeWithQualityHeaderValue("application/json"));

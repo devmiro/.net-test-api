@@ -79,7 +79,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-For testing follow instalation process and access `https://softplan-test-api.azurewebsites.net/swagger/index.html` in your browser.
+For testing follow instalation process and access `https://localhost:5001/swagger/index.html` in your browser.
 
 ### Prerequisites
 
